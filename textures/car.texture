@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "car",
+  "identifier": "texture:2708-2aa520dc-d513-471c-badd-6acef05051fd",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "ce42b455c310b0220ca8448b2b196a4e",
+  "assetLocator": "textures/car.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 260,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 263,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "ce42b455c310b0220ca8448b2b196a4e",
+      "colorCount": 10879,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.6444212878508653,
+      "pixelsHigh": 260,
+      "pixelsWide": 263
+    }
+  ]
+}
